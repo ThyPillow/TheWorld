@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2017\Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+D:\Documents\Visual Studio 2017\Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+D:\Documents\Visual Studio 2017\Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+D:\Documents\Visual Studio 2017\Projects\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+D:\Documents\Visual Studio 2017\Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+D:\Documents\Visual Studio 2017\Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb

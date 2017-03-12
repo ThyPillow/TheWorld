@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "ToAddress": "shistram@outlook.com"
+  },
+  "ConnectionString": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDB;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true"
+  },
+  "Keys": {
+    "BingKey": "INPUTBINGKEY"
+  }
+}
